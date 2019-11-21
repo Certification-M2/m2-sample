@@ -1,26 +1,27 @@
-### Magento2 Sample Modules
+## Synopsis
 
-This repository is a list of all module those are developed for purely tutorials purpose.
+Simple demonstrate ...............
 
+## Motivation
 
-#### Modules:
-- **magento2-basic:** A basic M2 module that uses only required file.
-- **magento2-helloworld-module**  Print Hello World front-end
-- **magento2-CustomAttribute-module**   Add a custom attribute in customer account edit page
-- **magento2-admin-crud-module** Admin Grid using UI Component
-- **magento2-CustomAPI-module**  Build a custom API module to provide best selling product
-- **magento2-crud-module**  A sample CRUD module using service-contracts ([Service Contract For a Custom Module](https://magento.stackexchange.com/a/160617/3368) [Magento2 Service Contract](https://webkul.com/blog/magento2-service-contract/) )
+This extension demonstrate  ................
 
-### Developer
+## Technical feature
 
----------
-Supravat M
-http://supravatm.github.io
+This module is
 
-Licence
--------
-[OSL - Open Software Licence 3.0](http://opensource.org/licenses/osl-3.0.php)
+## Installation
 
-Copyright
----------
-(c) 2018 Supravat M
+This module is intended to be installed using composer.  
+
+## Tests
+
+Unit tests are found in the [Test/Unit](Test/Unit) directory.
+
+## Contributors
+
+c) 2019 Supravat M
+
+## License
+
+[Open Source License](LICENSE.txt)
