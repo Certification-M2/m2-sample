@@ -18,7 +18,8 @@ A public interface is a set of code that third-party developers can call, implem
 ### How to test Web API through POST-Men?
 
 
-<img src="https://github.com/Certification-M2/m2-sample/blob/master/docs/servicecontract-get-by-id.png" width=300>
+<img src="https://github.com/Certification-M2/m2-sample/blob/master/docs/servicecontract-get-by-id.png">
+<img src="https://github.com/Certification-M2/m2-sample/blob/master/docs/servicecontract-get-list.png">
 
 
 ## Motivation
