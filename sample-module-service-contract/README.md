@@ -7,7 +7,19 @@ A service contract is a set of PHP interfaces that are defined for a module. A s
 
 If developers define data and service interfaces according to a set of design patterns, the result is a well-defined, durable API that other modules and third-party extensions can implement through Magento models and resource models.
 
-[Source](https://devdocs.magento.com/guides/v2.3/extension-dev-guide/service-contracts/service-contracts.html#what-is-msc)
+> "Service Contract", [Source Link](https://devdocs.magento.com/guides/v2.3/extension-dev-guide/service-contracts/service-contracts.html#what-is-msc)
+
+### Public interfaces & APIs
+
+A public interface is a set of code that third-party developers can call, implement, or build as a plug-in. Magento guarantees that this code will not change in subsequent releases without a major version change.
+
+> "Public interfaces & APIs", [Source Link](https://devdocs.magento.com/guides/v2.3/extension-dev-guide/api-concepts.html)
+
+### How to test Web API through POST-Men?
+
+
+<img src="https://github.com/Certification-M2/m2-sample/blob/master/docs/servicecontract-get-by-id.png" width=300>
+
 
 ## Motivation
 
@@ -16,6 +28,9 @@ This extension demonstrate of Service contracts module with the minimal codes. W
 ## Technical feature
 
 This extension demonstrate how to build a module using Magento2's Service Contract design pattern.
+
+**Addtionally**  We can consider as an example of Web-API module
+
  
 ## Installation
 
