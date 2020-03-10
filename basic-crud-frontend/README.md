@@ -268,3 +268,11 @@ class Grid extends Template
     }
 }
 ~~~
+
+### Preview Images:
+
+![screen 1](https://github.com/Certification-M2/m2-sample/blob/master/screenshots/Selection_113.jpg)
+![screen 1](https://github.com/Certification-M2/m2-sample/blob/master/screenshots/Selection_114.jpg)
+![screen 1](https://github.com/Certification-M2/m2-sample/blob/master/screenshots/Selection_115.jpg)
+![screen 1](https://github.com/Certification-M2/m2-sample/blob/master/screenshots/Selection_116.jpg)
+![screen 1](https://github.com/Certification-M2/m2-sample/blob/master/screenshots/Selection_117.jpg)
